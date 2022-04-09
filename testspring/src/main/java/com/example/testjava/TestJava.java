@@ -8,7 +8,6 @@ import java.util.List;
  **/
 public class TestJava {
     public static void main(String[] args) {
-        List<Integer>
         System.out.println("hello world");
     }
 }
